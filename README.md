@@ -32,5 +32,6 @@ MagicData Tech put time and effort into building the MagicHub community, providi
 
 ## Learn More
 please visit at   magichub.io
+
 You can also email us: open@magicdatatech.com
 
