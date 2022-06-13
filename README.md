@@ -3,35 +3,11 @@ Massive, diversiform datasets are released on MagicHub.io. The datasets are subd
 MagicData Tech put time and effort into building the MagicHub community, providing developers easier access to open data. We sincerely invite all data producers and users to join us in improving this community by publishing open-source data, giving advice, or any possible way.
 
 
-## WHY US?
+## Datasets
 
--MULTIPLE DIMENSIONS
+## Competitions
 
--EXTENSIVE SCOPE
-
--TIMELY CONTENTS
-
--HIGH ACCURACY
-
--FULL COMPLIANCE
-
-
-## WHAT WE HAVE?
-
--Industry Solution： Finance、Healthcare、Education
-
--NLP、ASR、TTS、Lexicon
-
--Chinese Dialect: Shanghai Dialect、Sichuan Dialect、Zhengzhou Dialect、Guangzhou Cantonese
-
--European: German、Italian、Portuguese
-
--More...
-
-
-
-## Learn More
-please visit at   magichub.io
+#### [MagicData-RAMC-Challenge<br>MagicData中文重口音挑战赛](https://github.com/MagicHub-io/MagicData-RAMC-Challenge "查看比赛")
 
 You can also email us: open@magicdatatech.com
 
