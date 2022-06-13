@@ -7,7 +7,7 @@ MagicData Tech put time and effort into building the MagicHub community, providi
 
 ## Competitions
 
-#### [MagicData-RAMC-Challenge<br>MagicData中文重口音挑战赛](https://github.com/MagicHub-io/MagicData-RAMC-Challenge "查看比赛")
+#### [MagicData-RAMC-Challenge | MagicData中文重口音挑战赛](https://github.com/MagicHub-io/MagicData-RAMC-Challenge "")
 
 You can also email us: open@magicdatatech.com
 
